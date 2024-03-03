@@ -4,7 +4,7 @@ import cmath
 
 num = 1+2j
 
-# To take input from the user
+# To take input from the user and find the square root of number
 #num = eval(input('Enter a number: '))
 
 num_sqrt = cmath.sqrt(num)

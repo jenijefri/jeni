@@ -7,7 +7,7 @@ function msg(){
 </script>  
 </head>  
 <body>  
-<p>Welcome to JavaScript</p>  
+<p>Welcome to JavaScript This is the java script page</p>  
 <form>  
 <input type="button" value="click" onclick="msg()"/>  
 </form>  
